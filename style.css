@@ -5,3 +5,8 @@ div.bar {
   margin-right: 2px;
   background-color: teal;
 }
+.my-ellipse {
+  fill: yellow;
+  stroke: purple;
+  stroke-width: 10;
+}
