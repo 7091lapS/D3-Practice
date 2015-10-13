@@ -10,3 +10,14 @@ div.bar {
   stroke: purple;
   stroke-width: 10;
 }
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: helvetica;
+    font-size: 11px;
+}
